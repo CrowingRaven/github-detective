@@ -1,2 +1,3 @@
 @echo off
-python "%~dp0github-detective" %*
+
+python "%~dp0github-detective.py" %*
